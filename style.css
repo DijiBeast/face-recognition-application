@@ -1,0 +1,22 @@
+body
+{
+background-color: black;
+color: white;
+}
+
+.name_of_objects
+{
+color: greenyellow;
+
+
+}
+
+#result_object_name
+{
+color: greenyellow;
+}
+
+#result_object_accuracy
+{
+    color: greenyellow;
+}
